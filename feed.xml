@@ -3,10 +3,22 @@
     <title>Indrayudh Sengupta</title>
     <link href="https://indrayudhsg.github.io/feed.xml" rel="self" />
     <link href="https://indrayudhsg.github.io" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2020-02-18T15:50:48+05:30</updated>
     <author>
         <name>Indrayudh</name>
     </author>
     <id>https://indrayudhsg.github.io</id>
 
+    <entry>
+        <title>Birdhouse</title>
+        <author>
+            <name>Indrayudh</name>
+        </author>
+        <link href="https://indrayudhsg.github.io/birdhouse.html"/>
+        <id>https://indrayudhsg.github.io/birdhouse.html</id>
+
+        <updated>2020-02-18T15:50:37+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
